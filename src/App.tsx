@@ -18,7 +18,7 @@ export default function App() {
         Happy birthday Pooja!
       </h1>
       <p className="text-neutral-200 text-xl">
-        You shine brighter than the starts themselves.
+        You shine brighter than the stars themselves.
       </p>
     </main>
   );
